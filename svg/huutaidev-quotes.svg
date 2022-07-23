@@ -22,15 +22,15 @@
         .quotes-vi {
           font-size: 18px;
         }
-        .trungquandev-signature {
+        .signature {
           font-size: 16px;
         }
 			</style>
 
 			<div class="container">
-        <div class="quotes-eng">"After a day! We've learned something new? Or become a copy of yesterday?"</div>
-        <div class="quotes-vi">"Qua một ngày, chúng ta học thêm được gì mới? Hay trở thành bản sao của ngày hôm qua?"</div>
-        <div class="trungquandev-signature">-Trungquandev Official-</div>
+        <div class="quotes-eng">“Do not pray for an easy life, pray for the strength to endure a difficult one.”</div>
+        <div class="quotes-vi">Đừng mong có một cuộc sống dễ dàng, hãy cầu mình có sức mạnh để vượt qua khó khăn trong cuộc sống.</div>
+        <div class="signature">-Bruce Lee-</div>
       </div>
 		</div>
 	</foreignObject>
